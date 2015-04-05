@@ -12,7 +12,7 @@ widget-1:
     title: "เมนูแนะนำ"
     url: 'http://phlow.github.io/feeling-responsive/blog/'
     text: 'อาหารทุกอย่างของเรานั้นถูกคัดมาอย่างดีเพื่อคุณ'
-    image: <a href= target="_blank"><img border="0 src="http://image.ohozaa.com/t/c61/hGWnwW.jpg" /></a>
+    image: [![upic.me](//upic.me/i/db/1907519_1418533878453023_4428677649078250248_n.jpg)](http://upic.me/show/55148322)
 widget-2:
     title: "Top 10"
     url: 'http://phlow.github.io/feeling-responsive/info/'
