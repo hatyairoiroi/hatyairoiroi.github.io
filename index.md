@@ -8,6 +8,7 @@ layout: frontpage
 title: "HatYairoiroi - "
 header:
    image_fullwidth: "header_unsplash_12.jpg"
+   widget-1:
 ---
 
 
