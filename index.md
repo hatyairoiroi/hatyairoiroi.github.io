@@ -8,7 +8,12 @@ layout: frontpage
 title: "HatYairoiroi - "
 header:
    image_fullwidth: "header_unsplash_12.jpg"
-   widget-1:
+	widget-1:
+		title: "เมนูแนะนำ"
+		url: ''
+		text: 'เลือกสิ่งที่ดีที่สุดมาให้คุณ'
+		image:
+
 ---
 
 
