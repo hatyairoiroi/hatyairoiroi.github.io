@@ -1,3 +1,5 @@
+- title: หน้าหลัก
+  side: center
 - title: จัดหนัก
   url: "/"
   side: left
@@ -34,7 +36,7 @@
 
 - title: ดื่มนม
   url: "//"
-  side: left
+  side: center
   dropdown:
   - title: เหน็บชา หาดใหญ่ ขับผ่านต้องแวะซื้อ
     url: "//"
