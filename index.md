@@ -12,12 +12,12 @@ widget-1:
     title: "เมนูแนะนำ"
     url: ''
     text: 'อาหารทุกอย่างของเรานั้นถูกคัดมาอย่างดีเพื่อคุณ'
-    image: 
+    image: 1907519_1418533878453023_4428677649078250248_n.jpg
 widget-2:
     title: "Top 10"
     url: ''
     text: '10 สุดยอดรายการอาหารที่เราแนะนำว่าคุณต้องลอง'
-    image:
+    video: '<a href="#" data-reveal-id="videoModal"><img src="http://phlow.github.io/feeling-responsive/images/start-video-feeling-responsive-302x182.jpg" width="302" height="182" alt=""></a>'
 widget-3:
     title: "Download Theme"
     url: 'https://github.com/Phlow/feeling-responsive'
