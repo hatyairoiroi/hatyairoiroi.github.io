@@ -2,11 +2,11 @@
   url: "/"
   side: left
 
-- title: Getting Started
+- title: Getting Food
   url: "/getting-started/"
   side: left
 
-- title: "Templates"
+- title: "จัดหนัก"
   url: "/design/"
   side: left
   dropdown:
