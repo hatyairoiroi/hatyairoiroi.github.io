@@ -1,79 +1,64 @@
-- title: Start
+
+- title: จัดหนัก
   url: "/"
   side: left
+  dropdown:
+  - title: โคตรท้าพิสูจน์ต้องงลอง ก๋วยเตี๋ยวท้าพิสูจน์หาดใหญ่
+    url: "//"
+  - title: "โกอ้วนกับซาลาเปาทอดชื่อดังหาดใหญ่"
+    url: "//"
+  - title: "ก๋วยเตี๋ยวหมูย่างซอยลึกลับหาดใหญ่"
+    url: "//"
+  - title: เที่ยวดึกแวะข้าวต้มซอย 3 หาดใหญ่
+    url: "//"
+  - title: ส้มตำชบาหาดใหญ่ นั่งกินห้องแอร์
+    url: "//"
+  - title: ไก่ทอดหาดใหญ่ ต้องไก่ทอดเดชา
+    url: "//"
+  - title: โกดอนหาดใหญ่ อร่อยได้ไม่ต้องปรุง
+    url: "//"
+  - title: เกาเหลาเลือดหมูป้าเขียว
+    url: "//"
+  - title: ราดหน้าโกฉ่อน ที่เปิดมายาวนาน
+    url: "//"
+  - title: ข.ไข่ รวมเมนูไข่
+    url: "//"
 
-- title: Getting Started
-  url: "/getting-started/"
-  side: left
-
-- title: "Templates"
-  url: "/design/"
+- title: บุฟเฟ่ต์
+  url: "//"
   side: left
   dropdown:
-  - title: "Grid & Colors"
-    url: "/design/grid/"
-  - title: "Typography"
-    url: "/design/typography/"
-  - title: "Page/Post"
-    url: "/design/page/"
-  - title: "Post-Left-Sidebar"
-    url: "/design/post-left-sidebar/"
-  - title: "Post-Right-Sidebar"
-    url: "/design/post-right-sidebar/"
-  - title: "Page Full-Width"
-    url: "/design/page-fullwidth/"
-  - title: "Blog-Page"
-    url: "/blog/"
-  - title: "Video"
-    url: "/design/video/"
-  - title: "Gallery"
-    url: "/design/gallery/"
-  - title: "Portfolio"
-    url: "/design/portfolio/"
+  - title: "โอโออิ หาดใหญ่ เคยไปหรือยัง?"
+    url: "/"
+  - title: "กินกันให้อิ่ม “ฟ้าใสกระทะร้อน”"
+    url: "//"
 
-- title: "Header Styles"
-  url: "/headers/"
+- title: ดื่มนม
+  url: "//"
   side: left
   dropdown:
-  - title: "Header with Full-Width-Image"
-    url: "/design/header-full-width-image/"
-  - title: "Header with Image and Pattern"
-    url: "/design/header-image-pattern/"
-  - title: "Header with image and color"
-    url: "/design/header-image-color/"
-  - title: "Header Only With Logo"
-    url: "/design/header-logo-only/"
-  - title: "Header With Text"
-    url: "/design/header-with-text/"
-  - title: "No Header"
-    url: "/design/no-header/"
-  - title: "No Header but Image"
-    url: "/design/no-header-but-image/"
+  - title: เหน็บชา หาดใหญ่ ขับผ่านต้องแวะซื้อ
+    url: "//"
+  - title: ร้านนมสด 109 หน้า ม.อ.หาดใหญ่
+    url: "//"
 
-- title: Documentation
-  url: "/documentation/"
+- title: มาเมา
+  url: "//"
   side: left
   dropdown:
-  - title: Documentation
-    url: "/documentation/"
-  - title: "Changelog"
-    url: "/changelog/"
-  - title: "Roadmap"
-    url: "/roadmap/"
+  - title: เซอคัส มีคนเช็คอินบ่อยน่ะ
+    url: "//"
+  - title: แวะเติมแก๊ส “แก๊สโซลีน” หาดใหญ่
+    url: "//"
 
-- title: Blog
-  url: "/blog/"
-  side: left
-  dropdown:
-  - title: Blog
-    url: "/blog/"
-  - title: "Blog Archive"
-    url: "/blog/archive/"
-
-- title: "Search"
+- title: หวานๆ
   url: "/search/"
   side: right
-
-- title: "Contact"
-  url: "/contact/"
-  side: right
+  dropdown:
+  - title: บ้านไอติมหาดใหญ่-ไอติมแฮนเมด
+    url: "//"
+  - title: ไทยไท ไอติมกะทิสด แสงทองหาดใหญ่
+    url: "//"
+  - title: กินมันเดือย เลียบชุมทางหาดใหญ่
+    url: "//"
+  
