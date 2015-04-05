@@ -17,12 +17,10 @@ widget-2:
     title: "Top 10"
     url: ''
     text: '10 สุดยอดรายการอาหารที่เราแนะนำว่าคุณต้องลอง'
-    video: ''
 widget-3:
     title: "Download Theme"
     url: ''
-    text: ''
-    image: 
+    text: 'รายการอาหาร'
 ---
 
 
