@@ -7,7 +7,9 @@
 layout: frontpage
 title: "HatYairoiroi - "
 header:
-   image_fullwidth: 'header_hatyai.jpg'
+    image_fullwidth: "header_hatyai.jpg"
+    caption: This is a caption for the header image with link
+    caption_url: https://hatyairoiroi.github.io/
 widget-1:
     title: "The Best of month"
     url: ''
