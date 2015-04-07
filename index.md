@@ -7,7 +7,7 @@
 layout: frontpage
 title: "HatYairoiroi - "
 header:
-   image_fullwidth: "header_unsplash_12.jpg"
+   LOGOhatyai.jpg"
 widget-1:
     title: "The Best of month"
     url: ''
