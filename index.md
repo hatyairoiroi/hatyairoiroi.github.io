@@ -5,7 +5,7 @@
 # this work, you have to use › layout: frontpage
 #
 layout: frontpage
-title: "HatYairoiroi - "
+title: "HatYairoiroi"
 header:
     image_fullwidth: "header_hatyai.jpg"
 widget-1:
@@ -25,11 +25,3 @@ widget-3:
     image: กุ้ง.jpg
 
 ---
-
-
-<div id="videoModal" class="reveal-modal large" data-reveal="">
-  <div class="flex-video widescreen vimeo" style="display: block;">
-    <iframe width="1280" height="720" src="https://www.youtube.com/embed/3b5zCFSmVvU" frameborder="0" allowfullscreen></iframe>
-  </div>
-  <a class="close-reveal-modal">&#215;</a>
-</div>
