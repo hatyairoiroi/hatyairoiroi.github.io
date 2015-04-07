@@ -12,7 +12,7 @@ widget-1:
     title: "The Best of mounth"
     url: 'http://phlow.github.io/feeling-responsive/blog/'
     text: 'เมนูและร้านอาหารยอดนิยมประจำเดือนนี้โหวดจากสมาชิก'
-    image: 1907519_1418533878453023_4428677649078250248_n.jpg
+    image: แนะนำ.jpg
 widget-2:
     title: "Top 10 in Hatyairoiroi"
     url: 'http://phlow.github.io/feeling-responsive/info/'
