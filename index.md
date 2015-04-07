@@ -4,7 +4,7 @@
 # inserted automagically in the webpage. To make
 # this work, you have to use › layout: frontpage
 #
-layout: Hatyairoiroi
+layout: frontpage
 title: "HatYairoiroi - "
 header:
     image_fullwidth: "header_hatyai.jpg"
