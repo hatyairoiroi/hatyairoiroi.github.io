@@ -9,18 +9,18 @@ title: "HatYairoiroi - "
 header:
    image_fullwidth: "header_unsplash_12.jpg"
 widget-1:
-    title: "The Best of mounth"
+    title: "The Best of month"
     url: ''
-    text: 'เมนูและร้านอาหารยอดนิยมประจำเดือนนี้โหวดจากสมาชิก'
+    text: 'เมนูและร้านอาหารยอดนิยมประจำเดือนนี้โหวตจากสมาชิก'
     image: แนะนำ.jpg
 widget-2:
     title: "Top 10 in Hatyairoiroi"
-    url: 'http://phlow.github.io/feeling-responsive/info/'
+    url: ''
     text: '10 ร้านที่ควรจะไปให้ได้'
     image: 'ต้มยำ.jpg'
 widget-3:
     title: "Hatyairoiroi Diary"
-    url: 'https://github.com/Phlow/feeling-responsive'
+    url: ''
     text: 'บันทึกเรื่องราวของเรา'
     image: กุ้ง.jpg
 
