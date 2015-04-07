@@ -1,6 +1,6 @@
 - title: หน้าหลัก
   side: left
-- title: จัดหนัก
+- title: ร้านอาหารแนะนำ
   url: "/"
   side: left
   dropdown:
@@ -25,7 +25,7 @@
   - title: ข.ไข่ รวมเมนูไข่
     url: "//"
 
-- title: บุฟเฟ่ต์
+- title: บุฟเฟ่ต์จัดหนัก
   url: "//"
   side: left
   dropdown:
@@ -34,7 +34,7 @@
   - title: "กินกันให้อิ่ม “ฟ้าใสกระทะร้อน”"
     url: "//"
 
-- title: ดื่มนม
+- title: เครื่องดื่มและของกินเล่น
   url: "//"
   side: left
   dropdown:
@@ -43,7 +43,7 @@
   - title: ร้านนมสด 109 หน้า ม.อ.หาดใหญ่
     url: "//"
 
-- title: มาเมา
+- title: ร้านเหล้า บาร์ สถานบันเทิง
   url: "//"
   side: left
   dropdown:
@@ -52,7 +52,7 @@
   - title: แวะเติมแก๊ส “แก๊สโซลีน” หาดใหญ่
     url: "//"
 
-- title: หวานๆ
+- title: ของหวาน - ไอศครีม
   url: "/search/"
   side: left
   dropdown:
