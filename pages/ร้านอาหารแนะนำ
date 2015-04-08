@@ -8,7 +8,6 @@ header:
    image_fullwidth: "header_hatyai.jpg"
 permalink: "/ร้านอาหารแนะนำ/"
 ---
-
 1. [โคตรท้าพิสูจน์ต้องลอง ก๋วยเตี๋ยวท้าพิสูจน์หาดใหญ่][1] 
 2. [โกอ้วนกับซาลาเปาทอดชื่อดังหาดใหญ่][2]
 3. [ก๋วยเตี๋ยวหมูย่างซอยลึกลับหาดใหญ่][3]
@@ -20,13 +19,7 @@ permalink: "/ร้านอาหารแนะนำ/"
 9. [ราดหน้าโกฉ่อน ที่เปิดมายาวนาน][9]
 10. [ข.ไข่ รวมเมนูไข่][10]
  
+ <a class="radius button small" href="{{ site.url }}/documentation/">Check out the documentation for all the tricks ›</a>
+ 
+ 
  [1]: {{ site.url }}/documentation/
- [2]: {{ site.url }}/documentation/
- [3]: {{ site.url }}/documentation/
- [4]: {{ site.url }}/documentation/
- [5]: {{ site.url }}/documentation/
- [6]: {{ site.url }}/documentation/
- [7]: {{ site.url }}/documentation/
- [8]: {{ site.url }}/documentation/
- [9]: {{ site.url }}/documentation/
- [10]: {{ site.url }}/documentation/
