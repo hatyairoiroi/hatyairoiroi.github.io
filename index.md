@@ -12,7 +12,7 @@ widget-1:
     title: "The Best of month"
     url: ''
     text: 'เมนูและร้านอาหารยอดนิยมประจำเดือนนี้โหวตจากสมาชิก'
-    image: แนะนำ.jpg
+    image: ราดหน้า.jpg
 widget-2:
     title: "Top 10 in Hatyairoiroi"
     url: ''
