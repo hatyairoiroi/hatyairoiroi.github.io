@@ -2,6 +2,8 @@
 layout: page
 show_meta: false
 title: "Search"
+header:
+   image_fullwidth: "header_hatyai.jpg"
 permalink: "/search/"
 ---
 
