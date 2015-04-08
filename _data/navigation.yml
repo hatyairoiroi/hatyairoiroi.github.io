@@ -63,11 +63,11 @@
   - title: แวะเติมแก๊ส “แก๊สโซลีน” หาดใหญ่
     url: "//"
 
-- title: เกี่ยวกับเรา
-  url: "/contact/"
-  side: right
-
 - title: ค้นหา
   url: "/search/"
+  side: right
+  
+- title: เกี่ยวกับเรา
+  url: "/contact/"
   side: right
   
