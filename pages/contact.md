@@ -4,6 +4,8 @@ title: "ติดต่อเรา"
 show_meta: false
 subheadline: "ติดต่อเรา"
 description: "Get in touch with me? Use the contact form."
+header:
+   image_fullwidth: "header_hatyai.jpg"
 permalink: "/contact/"
 ---
 ถ้าท่านมีปัญหาจากการใช้งานกรุณาติดต่อและกรอกแบบฟอมปัญหา
