@@ -11,7 +11,7 @@ permalink: "/contact/"
 ถ้าท่านมีปัญหาจากการใช้งานกรุณาติดต่อและกรอกแบบฟอมปัญหา
 
 <div class="panel">
-<iframe width="100%" height="650" frameborder="0" scrolling="no" <form id="form1" name="form1" class="wufoo topLabel page1" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="post" novalidate="" action="https://phlowmedia.wufoo.com/embed/z7x3k1/#public">
+<form id="form1" name="form1" class="wufoo topLabel page1" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="post" novalidate="" action="https://phlowmedia.wufoo.com/embed/z7x3k1/#public">
   
 <header id="header" class="info">
 	<h2>รูปแบบการติดต่อ</h2>
@@ -25,13 +25,12 @@ permalink: "/contact/"
 	
 <li id="fo1li5" class="notranslate">
 	<label class="desc" id="title5" for="Field5">
-		ชื่อ   // Your Name
+		ชื่อ 
 				<span id="req_5" class="req">*</span>
 			</label>
 	<div>
 		<input id="Field5" name="Field5" type="text" class="field text large" value="" maxlength="255" tabindex="1" onkeyup="handleInput(this); " onchange="handleInput(this);" required="">
 			</div>
-		<p class="instruct" id="instruct5"><small>ชื่อของคุณคือ?</small></p>
 	</li>
 
 
@@ -53,7 +52,7 @@ permalink: "/contact/"
 
 	
 	<label class="desc" id="title4" for="Field4">
-		ข้อความที่คุณต้องการจะส่ง   // Your Message
+		ข้อความที่คุณต้องการจะส่ง
 				<span id="req_4" class="req">*</span>
 			</label>
 
@@ -62,7 +61,6 @@ permalink: "/contact/"
 
 			</div>
 
-		<p class="instruct" id="instruct4"><small>ข้อความที่ต้องการจะส่ง</small></p>
 	
 	
 	</li>
@@ -82,11 +80,10 @@ permalink: "/contact/"
 	<div>
 		<span>
 	<input id="Field7" name="Field7" type="checkbox" class="field checkbox" value="กรอกข้อมูลให้ถูกต้องครบถ้วน" tabindex="4" onchange="handleInput(this);">
-	<label class="choice" for="Field7">กรอกข้อมูลให้ถูกต้องครบถ้วน</label>
+	<label class="choice" for="Field7">ยืนยันว่าไม่ใช่Bot</label>
 	</span>
 		</div>
 	</fieldset>
-		<p class="instruct" id="instruct7"><small>Der Phlow Newsletter informiert über neue Artikel, Videos und Link-Tipps rund um die Themen Social Media, Marketing, Videos, kostenlose MP3-Musik und Technologie.</small></p>
 	</li>
 
 
@@ -111,7 +108,7 @@ permalink: "/contact/"
 				<input type="hidden" id="clickOrEnter" name="clickOrEnter" value="">
 			</li>
 	</ul>
-</form>></iframe>
+</form>>
 </div>
 
 
