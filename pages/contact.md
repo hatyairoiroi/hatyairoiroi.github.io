@@ -43,7 +43,6 @@ permalink: "/contact/"
 	<div>
 		<input id="Field3" name="Field3" type="email" spellcheck="false" class="field text large" value="" maxlength="255" tabindex="2" onkeyup="handleInput(this);" onchange="handleInput(this);" required="">
 	</div>
-		<p class="instruct" id="instruct3"><small>Email-Adresse!</small></p>
 	</li>
 
 
@@ -100,13 +99,6 @@ permalink: "/contact/"
 				</div>
 	</li>
 
-		<li class="hide">
-		<label for="comment">Do Not Fill This Out</label>
-		<textarea name="comment" id="comment" rows="1" cols="1"></textarea>
-		<input type="hidden" id="idstamp" name="idstamp" value="gWX1mjWzxQlkgyn23Pqqm8htB/iSMPvliI3NSqsCVR0=">
-				<input type="hidden" id="stats" name="stats" value="{&quot;errors&quot;:0,&quot;startTime&quot;:0,&quot;endTime&quot;:0,&quot;referer&quot;:&quot;https:\/\/hatyairoiroi.github.io\/\/contact\/&quot;}">
-				<input type="hidden" id="clickOrEnter" name="clickOrEnter" value="">
-			</li>
 	</ul>
 </form>>
 </div>
