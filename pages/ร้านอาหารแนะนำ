@@ -1,0 +1,24 @@
+---
+layout: page
+show_meta: false
+title: "Getting Started"
+subheadline: "A Step-by-Step Guide"
+description: "This step-by-step guide helps you to customize Feeling Responsive to your needs."
+header:
+   image_fullwidth: "header_homepage_13.jpg"
+permalink: "/getting-started/"
+---
+
+1. [โคตรท้าพิสูจน์ต้องลอง ก๋วยเตี๋ยวท้าพิสูจน์หาดใหญ่][1] 
+2. [โกอ้วนกับซาลาเปาทอดชื่อดังหาดใหญ่][2]
+3. [ก๋วยเตี๋ยวหมูย่างซอยลึกลับหาดใหญ่][3]
+4. [เที่ยวดึกแวะข้าวต้มซอย 3 หาดใหญ่][4]
+5. [ส้มตำชบาหาดใหญ่ นั่งกินห้องแอร์][5]
+6. [ไก่ทอดหาดใหญ่ ต้องไก่ทอดเดชา][6]
+7. [โกดอนหาดใหญ่ อร่อยได้ไม่ต้องปรุง][7]
+8. [เกาเหลาเลือดหมูป้าเขียว][8]
+9. [ราดหน้าโกฉ่อน ที่เปิดมายาวนาน][9]
+10. [ข.ไข่ รวมเมนูไข่][10]
+ [1]: {{ site.url }}/documentation/
+ [1]: {{ site.url }}/documentation/
+ [1]: {{ site.url }}/documentation/
