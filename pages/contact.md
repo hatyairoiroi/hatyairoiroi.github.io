@@ -8,8 +8,6 @@ header:
    image_fullwidth: "header_hatyai.jpg"
 permalink: "/contact/"
 ---
-ถ้าท่านมีปัญหาจากการใช้งานกรุณาติดต่อและกรอกแบบฟอมปัญหา
-
 <div class="panel">
 <form id="form1" name="form1" class="wufoo topLabel page1" accept-charset="UTF-8" autocomplete="off" enctype="multipart/form-data" method="post" novalidate="" action="https://phlowmedia.wufoo.com/embed/z7x3k1/#public">
   
@@ -33,8 +31,6 @@ permalink: "/contact/"
 			</div>
 	</li>
 
-
-
 <li id="fo1li3" class="notranslate">
 	<label class="desc" id="title3" for="Field3">
 		Email
@@ -44,12 +40,7 @@ permalink: "/contact/"
 		<input id="Field3" name="Field3" type="email" spellcheck="false" class="field text large" value="" maxlength="255" tabindex="2" onkeyup="handleInput(this);" onchange="handleInput(this);" required="">
 	</div>
 	</li>
-
-
-
 <li id="fo1li4" class="notranslate       focused">
-
-	
 	<label class="desc" id="title4" for="Field4">
 		ข้อความที่คุณต้องการจะส่ง
 				<span id="req_4" class="req">*</span>
@@ -59,13 +50,7 @@ permalink: "/contact/"
 				<textarea id="Field4" name="Field4" class="field textarea large" spellcheck="true" rows="10" cols="50" tabindex="3" onkeyup="handleInput(this); " onchange="handleInput(this);" required=""></textarea>
 
 			</div>
-
-	
-	
 	</li>
-
-
-
 <li id="fo1li7" class="notranslate      ">
 	<fieldset>
 	<!--[if !IE | (gte IE 8)]-->
@@ -84,18 +69,11 @@ permalink: "/contact/"
 		</div>
 	</fieldset>
 	</li>
-
-
- 
-
-	
 	<li class="buttons ">
 		<div>
 								<input type="hidden" name="currentPage" id="currentPage" value="xv6Nt19UJbGvs3HV4WEovwWzJUjhVVIzEiUBLwmPdBU=">
 			
 			    			    			        						    <input id="saveForm" name="saveForm" class="btTxt submit" type="submit" value="ยืนยัน" onmousedown="doSubmitEvents();">
-					
-		
 				</div>
 	</li>
 
