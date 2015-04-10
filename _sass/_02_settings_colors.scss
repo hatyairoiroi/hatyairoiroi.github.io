@@ -1,5 +1,4 @@
-/* TOC – Color Variables
-
+/* TOC – Color Variables
 - Basics
 - Corporate Identity Colorpalette
 - Foundation Color Variables
@@ -7,7 +6,6 @@
 - Topbar-Navigation
 - Footer
 - Code
-
 */
 
 
@@ -17,7 +15,7 @@
 
 $text-color:       	#111;
 $body-font-color: 	$text-color;
-$body-bg: 			#B9A645;
+$body-bg: 			#fdfdfd;
 
 
 
@@ -71,48 +69,33 @@ $grey-16: #0B0B0B;
 /* Topbar-Navigation
 ------------------------------------------------------------------- */
 
-$topbar-bg-color: #DAB806;
+$topbar-bg-color: #fff;
 
-$topbar-dropdown-toggle-color: #FFE8FF;
+$topbar-dropdown-toggle-color: $ci-1;
 
-$topbar-link-color: #D8795C;
+$topbar-link-color: #000;
 $topbar-link-color-hover: #000;
 $topbar-link-color-active: #000;
 $topbar-link-color-active-hover: #000;
 
-$topbar-dropdown-label-color: #D8795C;
-$topbar-dropdown-link-bg-hover: #D8795C;
+$topbar-dropdown-label-color: $ci-2;
+$topbar-dropdown-link-bg-hover: $ci-6;
 
-<<<<<<< HEAD
-<<<<<<< HEAD
-$topbar-link-bg-active: #FFE8FF; // Active Navigation Link
-<<<<<<< HEAD
-$topbar-link-bg-hover: #F3DB9D;
-$topbar-link-bg-active-hover: #F3DB9D;
-=======
-=======
-$topbar-link-bg-active: #FFE8FF; // Active Navigation Link
->>>>>>> 498a2ebf6c6e63459d301cf7d3cc8c3fd03c6a66
-$topbar-link-bg-hover: #FFE8FF;
-$topbar-link-bg-active-hover: #FFE8FF;
->>>>>>> origin/master
-=======
-$topbar-link-bg-active: #FFE8FF; // Active Navigation Link
-$topbar-link-bg-hover: #FFE8FF;
-$topbar-link-bg-active-hover: #FFE8FF;
->>>>>>> ae9f734354062b1eeb9a104ce648fb980e0c3e66
+$topbar-link-bg-active: $ci-6; // Active Navigation Link
+$topbar-link-bg-hover: $ci-6;
+$topbar-link-bg-active-hover: $ci-2;
 
 
-$topbar-dropdown-bg: #F3EEB7; // Background Mobile Navigation
+$topbar-dropdown-bg: $ci-6; // Background Mobile Navigation
 $topbar-dropdown-link-color: #000;
-$topbar-dropdown-link-bg: #F3EEB7;
+$topbar-dropdown-link-bg: $ci-2;
 
-$topbar-menu-link-color-toggled: #FFA189;
-$topbar-menu-icon-color-toggled: #FFE8FF;
+$topbar-menu-link-color-toggled: $ci-1;
+$topbar-menu-icon-color-toggled: $ci-1;
 $topbar-menu-link-color: #000;
 $topbar-menu-icon-color: #000;
-$topbar-menu-link-color-toggled: #FFA189;
-$topbar-menu-icon-color-toggled: #FFE8FF;
+$topbar-menu-link-color-toggled: $ci-6;
+$topbar-menu-icon-color-toggled: $ci-6;
 
 
 
@@ -135,7 +118,7 @@ $subfooter-link-color: $grey-8;
 
 $code-background-color: scale-color($secondary-color, $lightness: 70%);
 
-$highlight-background: #FF6A1D;
+$highlight-background: #ffffff;
 $highlight-comment: #999988;
 $highlight-error: #a61717;
 $highlight-comment-special: #999999;
