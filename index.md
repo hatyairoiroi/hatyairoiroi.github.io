@@ -15,7 +15,7 @@ widget-1:
     image: ราดหน้า.jpg
 widget-2:
     title: "Top 10 in Hatyairoiroi"
-    url: ''
+    url: '/Top10/'
     text: '10 ร้านที่ควรจะไปให้ได้'
     image: 'ต้มยำ.jpg'
 widget-3:
