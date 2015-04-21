@@ -1,6 +1,1 @@
 - menu_name: "Services"
-
-- name: "Contact"
-  url: "/contact/"
-  class: "services-contact"
-  title: "Contact"
